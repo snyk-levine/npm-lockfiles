@@ -6,7 +6,7 @@
   "main": "index.js",
   "module": "index.mjs",
   "dependencies": {
-    "@thebespokepixel/es-tinycolor": "^0.3.0",
+    "@thebespokepixel/es-tinycolor": "^1.0.7",
     "@thebespokepixel/meta": "^0.2.2",
     "@thebespokepixel/string": "^0.5.1",
     "color-convert": "^1.9.2",
