@@ -9,7 +9,7 @@
     "@thebespokepixel/es-tinycolor": "^0.3.0",
     "@thebespokepixel/meta": "^0.2.2",
     "@thebespokepixel/string": "^0.5.1",
-    "color-convert": "^1.9.2",
+    "color-convert": "^2.0.1",
     "common-tags": "^1.8.0",
     "deep-assign": "^2.0.0",
     "escape-string-regexp": "^1.0.5",
