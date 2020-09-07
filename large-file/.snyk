@@ -1,0 +1,47 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.19.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - detective-less > debug:
+        patched: '2020-09-07T08:14:38.779Z'
+    - precinct > detective-less > debug:
+        patched: '2020-09-07T08:14:38.779Z'
+  'npm:hoek:20180212':
+    - less-cache > less > request > hawk > hoek:
+        patched: '2020-09-07T08:14:38.779Z'
+    - less-cache > less > request > hawk > boom > hoek:
+        patched: '2020-09-07T08:14:38.779Z'
+    - less-cache > less > request > hawk > sntp > hoek:
+        patched: '2020-09-07T08:14:38.779Z'
+    - karma > log4js > loggly > request > hawk > hoek:
+        patched: '2020-09-07T08:14:38.779Z'
+    - less-cache > less > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-09-07T08:14:38.779Z'
+    - karma > log4js > loggly > request > hawk > boom > hoek:
+        patched: '2020-09-07T08:14:38.779Z'
+    - karma > log4js > loggly > request > hawk > sntp > hoek:
+        patched: '2020-09-07T08:14:38.779Z'
+    - karma > log4js > loggly > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-09-07T08:14:38.779Z'
+  SNYK-JS-LODASH-567746:
+    - mocha-webpack > lodash:
+        patched: '2020-09-07T08:14:38.779Z'
+    - react-proxy > lodash:
+        patched: '2020-09-07T08:14:38.779Z'
+    - react-hot-loader > react-proxy > lodash:
+        patched: '2020-09-07T08:14:38.779Z'
+    - app-migrations > lodash:
+        patched: '2020-09-07T08:14:38.779Z'
+  'npm:lodash:20180130':
+    - mongodb-schema > lodash:
+        patched: '2020-09-07T08:14:38.779Z'
+  'npm:ms:20170412':
+    - detective-less > debug > ms:
+        patched: '2020-09-07T08:14:38.779Z'
+    - precinct > detective-less > debug > ms:
+        patched: '2020-09-07T08:14:38.779Z'
+  'npm:tunnel-agent:20170305':
+    - karma > log4js > loggly > request > tunnel-agent:
+        patched: '2020-09-07T08:14:38.779Z'
