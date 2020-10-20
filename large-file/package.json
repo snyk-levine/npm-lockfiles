@@ -114,7 +114,7 @@
     "acorn-to-esprima": "2.0.8",
     "acorn-walk": "6.1.0",
     "add-asset-html-webpack-plugin": "^3.0.0",
-    "adjust-sourcemap-loader": "1.2.0",
+    "adjust-sourcemap-loader": "3.0.0",
     "after": "0.8.2",
     "ag-grid": "18.1.1",
     "ag-grid-react": "18.1.0",
