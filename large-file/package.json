@@ -1333,7 +1333,7 @@
     "resolve-from": "2.0.0",
     "resolve-pathname": "2.2.0",
     "resolve-url": "0.2.1",
-    "resolve-url-loader": "2.3.0",
+    "resolve-url-loader": "3.1.2",
     "responselike": "1.0.2",
     "restore-cursor": "1.0.1",
     "ret": "0.1.15",
