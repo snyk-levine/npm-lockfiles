@@ -1500,7 +1500,7 @@
     "typedarray": "0.0.6",
     "typescript": "2.0.10",
     "typescript-eslint-parser": "1.0.2",
-    "ua-parser-js": "0.7.18",
+    "ua-parser-js": "0.7.24",
     "uglify-js": "3.3.23",
     "uglify-to-browserify": "1.0.2",
     "uglifyjs-webpack-plugin": "^1.2.5",
