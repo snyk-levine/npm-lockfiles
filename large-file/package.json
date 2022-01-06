@@ -1073,7 +1073,7 @@
     "number-is-nan": "1.0.1",
     "numeral": "2.0.6",
     "nwmatcher": "1.4.4",
-    "nyc": "^14.0.0",
+    "nyc": "^15.0.0",
     "oauth-sign": "0.8.2",
     "object-assign": "4.1.1",
     "object-component": "0.0.3",
