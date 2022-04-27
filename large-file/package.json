@@ -538,7 +538,7 @@
     "ecc-jsbn": "0.1.1",
     "editions": "1.3.4",
     "ee-first": "1.1.1",
-    "ejs": "2.5.9",
+    "ejs": "3.1.7",
     "electron-to-chromium": "1.3.45",
     "elegant-spinner": "1.0.1",
     "elliptic": "^6.5.3",
@@ -980,7 +980,7 @@
     "media-typer": "0.3.0",
     "mem": "^4.0.0",
     "mem-fs": "1.1.3",
-    "mem-fs-editor": "^4.0.1",
+    "mem-fs-editor": "^7.0.0",
     "memoizee": "0.3.10",
     "memory-fs": "0.4.1",
     "memory-pager": "1.1.0",
@@ -1612,7 +1612,7 @@
     "yauzl": "2.8.0",
     "yeast": "0.1.2",
     "yeoman-environment": "^2.0.6",
-    "yeoman-generator": "^2.0.5"
+    "yeoman-generator": "^4.11.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
