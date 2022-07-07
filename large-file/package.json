@@ -1008,7 +1008,7 @@
     "mock-fs": "4.4.2",
     "module-definition": "2.2.4",
     "module-deps": "^6.1.0",
-    "moment": "2.22.1",
+    "moment": "2.29.4",
     "mongodb": "^3.1.13",
     "mongodb-collection-sample": "^4.5.0",
     "mongodb-core": "^3.1.8",
