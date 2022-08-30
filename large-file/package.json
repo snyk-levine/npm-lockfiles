@@ -1270,7 +1270,7 @@
     "react-select": "1.2.1",
     "react-svg-core": "^3.0.0",
     "react-svg-loader": "^3.0.1",
-    "react-tooltip": "^3.8.1",
+    "react-tooltip": "^3.8.3",
     "react-vega": "4.0.2",
     "reactcss": "^1.2.3",
     "read-chunk": "2.1.0",
