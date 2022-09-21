@@ -1031,7 +1031,7 @@
     "mongodb-stitch-core-services-mongodb-remote": "4.0.15-0",
     "mongodb-stitch-extjson": "1.0.0",
     "moo": "0.4.3",
-    "mout": "1.1.0",
+    "mout": "1.2.4",
     "move-concurrently": "^1.0.1",
     "ms": "2.0.0",
     "multimatch": "2.1.0",
