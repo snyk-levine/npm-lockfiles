@@ -1,0 +1,14 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - tap > nyc > istanbul > handlebars > async > lodash:
+        patched: '2022-10-06T19:53:12.561Z'
+  'npm:request:20160119':
+    - tap > codecov.io > request:
+        patched: '2022-10-06T19:53:12.561Z'
+  'npm:tunnel-agent:20170305':
+    - tap > codecov.io > request > tunnel-agent:
+        patched: '2022-10-06T19:53:12.561Z'
