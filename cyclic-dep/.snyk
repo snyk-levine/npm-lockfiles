@@ -1,0 +1,36 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - truwrap > lodash:
+        patched: '2022-10-06T20:41:41.117Z'
+    - term-ng > trucolor > lodash:
+        patched: '2022-10-06T20:41:41.117Z'
+    - truwrap > @thebespokepixel/n-selector > lodash:
+        patched: '2022-10-06T20:41:41.117Z'
+    - term-ng > truwrap > lodash:
+        patched: '2022-10-06T20:41:41.117Z'
+    - '@thebespokepixel/string > term-ng > trucolor > lodash':
+        patched: '2022-10-06T20:41:41.117Z'
+    - verbosity > term-ng > trucolor > lodash:
+        patched: '2022-10-06T20:41:41.117Z'
+    - term-ng > truwrap > @thebespokepixel/n-selector > lodash:
+        patched: '2022-10-06T20:41:41.117Z'
+    - '@thebespokepixel/string > term-ng > truwrap > lodash':
+        patched: '2022-10-06T20:41:41.117Z'
+    - truwrap > term-ng > truwrap > lodash:
+        patched: '2022-10-06T20:41:41.117Z'
+    - verbosity > term-ng > truwrap > lodash:
+        patched: '2022-10-06T20:41:41.117Z'
+    - truwrap > @thebespokepixel/string > term-ng > trucolor > lodash:
+        patched: '2022-10-06T20:41:41.117Z'
+    - '@thebespokepixel/string > term-ng > truwrap > @thebespokepixel/n-selector > lodash':
+        patched: '2022-10-06T20:41:41.117Z'
+    - verbosity > term-ng > truwrap > @thebespokepixel/n-selector > lodash:
+        patched: '2022-10-06T20:41:41.117Z'
+    - truwrap > @thebespokepixel/string > term-ng > truwrap > lodash:
+        patched: '2022-10-06T20:41:41.117Z'
+    - truwrap > verbosity > term-ng > truwrap > lodash:
+        patched: '2022-10-06T20:41:41.117Z'
