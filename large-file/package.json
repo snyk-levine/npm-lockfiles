@@ -482,7 +482,7 @@
     "debug": "3.1.0",
     "debuglog": "1.0.1",
     "decamelize": "1.2.0",
-    "decode-uri-component": "0.2.0",
+    "decode-uri-component": "0.2.2",
     "decompress-response": "3.3.0",
     "dedent": "0.7.0",
     "deep-diff": "0.3.8",
