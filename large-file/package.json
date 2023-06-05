@@ -136,7 +136,7 @@
     "ansi-styles": "3.2.1",
     "any-observable": "0.2.0",
     "anymatch": "^2.0.0",
-    "app-migrations": "^0.2.0",
+    "app-migrations": "^3.1.6",
     "app-root-path": "2.0.1",
     "aproba": "1.2.0",
     "argparse": "1.0.10",
