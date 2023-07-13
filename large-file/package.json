@@ -495,7 +495,7 @@
     "del": "2.2.2",
     "delayed-stream": "1.0.0",
     "depd": "1.1.2",
-    "dependency-check": "^2.10.1",
+    "dependency-check": "^3.0.0",
     "deps-sort": "2.0.0",
     "des.js": "1.0.0",
     "destroy": "1.0.4",
