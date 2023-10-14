@@ -82,7 +82,7 @@
     "@babel/register": "^7.0.0",
     "@babel/runtime": "7.0.0",
     "@babel/template": "^7.0.0",
-    "@babel/traverse": "^7.0.0",
+    "@babel/traverse": "^7.23.2",
     "@babel/types": "^7.0.0",
     "@cypress/browserify-preprocessor": "^2.1.1",
     "@cypress/listr-verbose-renderer": "0.4.1",
