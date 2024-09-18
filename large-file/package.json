@@ -608,7 +608,7 @@
     "expand-range": "^1.8.2",
     "expand-tilde": "2.0.2",
     "expect": "^23.0.0",
-    "express": "4.16.3",
+    "express": "4.20.0",
     "extend": "^3.0.2",
     "extend-shallow": "3.0.2",
     "external-editor": "2.2.0",
