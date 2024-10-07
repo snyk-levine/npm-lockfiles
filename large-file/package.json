@@ -426,7 +426,7 @@
     "content-type": "1.0.4",
     "context-eval": "0.1.0",
     "convert-source-map": "1.5.1",
-    "cookie": "0.3.1",
+    "cookie": "0.7.0",
     "cookie-signature": "1.0.6",
     "copy-concurrently": "^1.0.5",
     "copy-descriptor": "0.1.1",
