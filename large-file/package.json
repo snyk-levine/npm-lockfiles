@@ -385,7 +385,7 @@
     "cli-table": "0.3.1",
     "cli-truncate": "0.2.1",
     "cli-width": "2.2.0",
-    "cliui": "3.2.0",
+    "cliui": "9.0.0",
     "clone": "1.0.4",
     "clone-buffer": "1.0.0",
     "clone-response": "1.0.2",
