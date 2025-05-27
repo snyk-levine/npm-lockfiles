@@ -600,7 +600,7 @@
     "events": "1.1.1",
     "evp_bytestokey": "1.0.3",
     "exec-sh": "^0.2.1",
-    "execa": "0.7.0",
+    "execa": "9.6.0",
     "executable": "4.1.1",
     "exit-hook": "1.1.1",
     "expand-braces": "0.1.2",
