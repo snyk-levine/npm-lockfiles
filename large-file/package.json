@@ -395,7 +395,7 @@
     "co": "4.6.0",
     "coa": "1.0.4",
     "code-point-at": "1.1.0",
-    "codemirror": "^5.54.0",
+    "codemirror": "^6.0.0",
     "codemirror-mongodb": "^0.10.3",
     "coffee-react-transform": "3.3.0",
     "coffee-script": "1.12.7",
