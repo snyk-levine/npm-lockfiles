@@ -872,7 +872,7 @@
     "jsx-ast-utils": "2.0.1",
     "just-extend": "^4.0.0",
     "jwt-decode": "2.2.0",
-    "karma": "^2.0.3",
+    "karma": "^5.0.8",
     "karma-chrome-launcher": "2.2.0",
     "karma-mocha": "^2.0.0",
     "karma-mocha-reporter": "2.2.5",
