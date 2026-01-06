@@ -456,7 +456,7 @@
     "currently-unhandled": "0.4.1",
     "custom-event": "1.0.1",
     "cyclist": "0.2.2",
-    "cypress": "^4.12.0",
+    "cypress": "^13.0.0",
     "d": "1.0.0",
     "d3-array": "1.2.1",
     "d3-collection": "1.0.4",
