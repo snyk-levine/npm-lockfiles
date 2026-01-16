@@ -1,0 +1,22 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - term-ng > truwrap > trucolor > lodash:
+        patched: '2026-01-16T14:41:12.664Z'
+        id: SNYK-JS-LODASH-567746
+        path: term-ng > truwrap > trucolor > lodash
+    - '@thebespokepixel/string > term-ng > truwrap > trucolor > lodash':
+        patched: '2026-01-16T14:41:12.664Z'
+        id: SNYK-JS-LODASH-567746
+        path: '@thebespokepixel/string > term-ng > truwrap > trucolor > lodash'
+    - verbosity > term-ng > truwrap > trucolor > lodash:
+        patched: '2026-01-16T14:41:12.664Z'
+        id: SNYK-JS-LODASH-567746
+        path: verbosity > term-ng > truwrap > trucolor > lodash
+    - truwrap > verbosity > term-ng > truwrap > trucolor > lodash:
+        patched: '2026-01-16T14:41:12.664Z'
+        id: SNYK-JS-LODASH-567746
+        path: truwrap > verbosity > term-ng > truwrap > trucolor > lodash
