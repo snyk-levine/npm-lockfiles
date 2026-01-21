@@ -415,7 +415,7 @@
     "component-bind": "1.0.0",
     "component-emitter": "1.2.1",
     "component-inherit": "0.0.3",
-    "compression-webpack-plugin": "^4.0.0",
+    "compression-webpack-plugin": "^7.0.0",
     "concat-map": "0.0.1",
     "concat-stream": "1.6.2",
     "connect": "3.6.6",
